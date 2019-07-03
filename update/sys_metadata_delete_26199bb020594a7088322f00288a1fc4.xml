@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_delete">
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-03 16:17:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>26199bb020594a7088322f00288a1fc4</sys_id>
+        <sys_metadata>1faf29e3b7123300cf70e2b9de11a999</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>m1</sys_name>
+        <sys_package display_value="app14" source="sn_app14">b961ade3b7123300cf70e2b9de11a978</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="app14">b961ade3b7123300cf70e2b9de11a978</sys_scope>
+        <sys_scope_delete display_value="">97c7067d07d34d189ca5d618a8fa4210</sys_scope_delete>
+        <sys_update_name>sys_script_include_1faf29e3b7123300cf70e2b9de11a999</sys_update_name>
+        <sys_update_version display_value="sys_script_include_1faf29e3b7123300cf70e2b9de11a999">09bf6127b7123300cf70e2b9de11a914</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-03 16:17:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
