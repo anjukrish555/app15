@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>sn_app14.m4</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>m4</name>
+        <script><![CDATA[var m4 = Class.create();
+m4.prototype = {
+    initialize: function() {
+    },
+
+    type: 'm4'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-03 16:21:18</sys_created_on>
+        <sys_id>ae013d27b7123300cf70e2b9de11a9ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>m4</sys_name>
+        <sys_package display_value="app14" source="sn_app14">b961ade3b7123300cf70e2b9de11a978</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="app14">b961ade3b7123300cf70e2b9de11a978</sys_scope>
+        <sys_update_name>sys_script_include_ae013d27b7123300cf70e2b9de11a9ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-03 16:21:18</sys_updated_on>
+    </sys_script_include>
+</record_update>
